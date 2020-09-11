@@ -1,5 +1,14 @@
 module.exports = {
-  '/guide/': [
+  '/we-dev/': [
+    ''
+  ],
+  '/guides/': [
+    ''
+  ],
+  '/cheat-sheet/': [
+    ''
+  ],
+  '/careers/': [
     ''
   ]
 }

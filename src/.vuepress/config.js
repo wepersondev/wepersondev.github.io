@@ -1,12 +1,15 @@
 const sidebar = require('./sidebar')
 
 module.exports = {
-  title: 'weperson',
-  description: 'weperson 기술 블로그입니다',
+  title: '위펄슨 기술 블로그',
+  description: '기술의 공유, 상생, 발전을 지향합니다',
   themeConfig: {
-    logo: '/icons/icon-32x32.png',
     nav: [
-      { text: 'Guide', link: '/guide/' }
+      { text: 'WeDev', link: '/we-dev/' },
+      { text: 'Guides', link: '/guides/' },
+      { text: 'Cheat Sheet', link: '/cheat-sheet/' },
+      { text: 'Careers', link: '/careers/' },
+      { text: 'WePerson', link: 'https://weperson.com' },
     ],
     sidebar,
     lastUpdated: 'Last Updated'

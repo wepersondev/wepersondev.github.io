@@ -1,4 +1,4 @@
-# guide
+# Guides
 
 * Tutorials(교육자료 / 개념 설명)
 
