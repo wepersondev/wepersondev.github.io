@@ -13,7 +13,9 @@ module.exports = {
   '/cheat-sheet/': [
     '',
     'git/',
-    'ssh/'
+    'npm/',
+    'ssh/',
+    'yarn/'
   ],
   '/careers/': [
     ''
