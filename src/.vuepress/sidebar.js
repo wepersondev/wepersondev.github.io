@@ -3,10 +3,17 @@ module.exports = {
     ''
   ],
   '/guides/': [
-    ''
+    '',
+    {
+      title: 'Conventions',
+      path: '/guides/conventions/',
+      children: ['/guides/conventions/docs/', '/guides/conventions/html/']
+    }
   ],
   '/cheat-sheet/': [
-    ''
+    '',
+    'git/',
+    'ssh/'
   ],
   '/careers/': [
     ''

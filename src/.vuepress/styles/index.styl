@@ -1,17 +1,25 @@
-.custom-block.tip
-  border-color: #3984B6
-
+// fix
 .home-link
   img.logo
     margin-right: 4px
     height: 2rem
     @media (max-width: 719px)
       display: none !important
-
   span.site-name
     color: grey
     display: inline-block !important
+ul.sidebar-links
+  > li:not(:first-child)
+    margin-top: 0 !important
+  > li > a.sidebar-link
+    font-size: 1em !important
+    line-height: 1.2 !important
+    font-weight: normal !important
+    &.active
+      font-weight: bold !important
 
+
+// extra
 span.green
   color: #3CB371
 span.red

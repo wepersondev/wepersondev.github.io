@@ -29,6 +29,8 @@ module.exports = {
   ],
   dest: 'docs',
   extraWatchFiles: ['.vuepress/sidebar.js'],
+  serviceWorker: { updatePopup: true },
+  markdown: { lineNumbers: true },
   plugins: [
     ['@vuepress/back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
