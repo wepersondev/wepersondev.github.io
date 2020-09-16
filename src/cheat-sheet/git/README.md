@@ -38,3 +38,7 @@ git clone https://github.com/wepersondev/wepersondev.github.io.git
 ```
 
 원격지의 git을 다운로드(복제)합니다.
+
+## 참고
+
+* [ssh-keygen](/cheat-sheet/ssh/#ssh-keygen): git 프로토콜을 사용하기 위해서는 ssh key를 생성하여야 합니다.
