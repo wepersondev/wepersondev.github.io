@@ -7,7 +7,12 @@ module.exports = {
     {
       title: 'Conventions',
       path: '/guides/conventions/',
-      children: ['/guides/conventions/docs/', '/guides/conventions/html/']
+      children: [
+        '/guides/conventions/general/',
+        '/guides/conventions/docs/',
+        '/guides/conventions/html/',
+        '/guides/conventions/css/'
+      ]
     }
   ],
   '/cheat-sheet/': [
