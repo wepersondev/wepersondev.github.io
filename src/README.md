@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-heroText: 위펄슨 기술 블로그입니다
+heroText: 위펄슨 기술 블로그
 tagline: 기술의 공유, 상생, 발전을 지향합니다
 actionText: 시작하기
 actionLink: /we-dev/
