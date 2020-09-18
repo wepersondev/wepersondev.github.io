@@ -1,4 +1,4 @@
-# 기술 블로그 소개
+# WeDev
 
 ![logo](/logo.png)
 

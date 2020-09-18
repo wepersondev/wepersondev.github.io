@@ -1,6 +1,7 @@
 module.exports = {
   '/we-dev/': [
-    ''
+    '',
+    'overview/'
   ],
   '/guides/': [
     '',
