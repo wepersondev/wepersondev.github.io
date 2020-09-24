@@ -5,9 +5,13 @@ module.exports = {
     {
       title: 'Tech Stack',
       path: '/we-dev/tech-stack/',
+      collapsable: false,
       children: [
-        '/we-dev/tech-stack/test1/',
-        '/we-dev/tech-stack/test2/'
+        '/we-dev/tech-stack/language/',
+        { title: 'Test', collapsable: false },
+        '/we-dev/tech-stack/frontend/',
+        '/we-dev/tech-stack/hybrid/',
+        '/we-dev/tech-stack/framework/'
       ]
     }
   ],
