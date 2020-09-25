@@ -13,43 +13,47 @@ FullStack, Serverless, DevOps, Agile
 
 
 
+
+
+## Language
+
 * Language
-- JS/TS
-- Node/Npm/Yarn
+
+## Frontend
 
 * Frontend
-- Web/Mobile > Hybrid: http://blog.wishket.com/2019%EB%85%84-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-5/
-- 반응형
-https://velog.io/@kimtaeeeny/Ionic-%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89-vs-React-Native-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-feat.-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1-FE-study12
-
+- Web/Mobile > Hybrid, 반응형
 - React, Angular > Vue
 - Quasar
 - CSS > SASS
 - CSR, SSR(2가지 종류), PWA
 
 * Lint
+* Bundling(Build Toolchain? Transcompile?) > Webpack, Rollup, Babel
 
-* Bundling(Build Toolchain? Transcompile?)
-- Webpack, Rollup
-- Babel
+## Backend
 
 * Backend
-- Java, Node > Node
+- Java Spring, Node > Node
 - AWS, Firebase, Azure
 - DBMS > NoSQL, DynomoDB, MySQL, Postgre, Google BigQuery & Firebase-S3-Athena(Redshift도 고려)
 - Rest / GraphQL > GraphQL
 - Serverless
+- 실시간
 
 * MicroService
-* Docker
 
-** DevOps
+## DevOps
 
 * SCM
 - SamVer > Conventional Commit > Husky, Lerna
 - MonoRepo
 
 * CI/CD > 이것도 도커가 필수
+
+* Docker, Kubenoties
+
+## Misc
 
 * Docs
 - Tech Blog(Markdown) / API Doc > GraphQL, 일반적 JSDoc > 머 쓸지 고민중
@@ -62,6 +66,7 @@ https://velog.io/@kimtaeeeny/Ionic-%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89-vs-React
 - Chrome
 - Slack
 
-* 정리?
+## 정리?
+
 
 

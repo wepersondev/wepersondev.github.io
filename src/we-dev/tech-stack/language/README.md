@@ -1,3 +1,4 @@
 # Language
 
-language
+- JS/TS
+- Node/Npm/Yarn
