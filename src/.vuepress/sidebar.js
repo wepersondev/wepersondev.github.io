@@ -1,17 +1,17 @@
 module.exports = {
-  '/we-dev/': [
+  '/wedev/': [
     '',
-    'overview/',
+    'prologue/',
     {
       title: 'Tech Stack',
-      path: '/we-dev/tech-stack/',
+      path: '/wedev/tech-stack/',
       collapsable: false,
       children: [
-        '/we-dev/tech-stack/language/',
+        '/wedev/tech-stack/language/',
         { title: 'Test', collapsable: false },
-        '/we-dev/tech-stack/frontend/',
-        '/we-dev/tech-stack/hybrid/',
-        '/we-dev/tech-stack/framework/'
+        '/wedev/tech-stack/frontend/',
+        '/wedev/tech-stack/hybrid/',
+        '/wedev/tech-stack/framework/'
       ]
     }
   ],

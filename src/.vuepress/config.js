@@ -5,11 +5,11 @@ module.exports = {
   description: '기술의 공유, 상생, 발전을 지향합니다',
   themeConfig: {
     nav: [
-      { text: 'WeDev', link: '/we-dev/' },
+      { text: 'WeDev', link: '/wedev/' },
       { text: 'Guides', link: '/guides/' },
       { text: 'Cheat Sheet', link: '/cheat-sheet/' },
       { text: 'Careers', link: '/careers/' },
-      { text: 'WePerson', link: 'https://weperson.com' },
+      { text: 'weperson', link: 'https://weperson.com' },
     ],
     sidebar,
     lastUpdated: 'Last Updated'
