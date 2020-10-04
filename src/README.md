@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: 위펄슨 기술 블로그
 tagline: 기술의 공유, 상생, 발전을 지향합니다
 actionText: 시작하기
-actionLink: /we-dev/
+actionLink: /wedev/
 features:
 - title: WeDev
   details: 우리가 추구하고자 하는 가치, 개발 방향, 기술 스택등이 기술 되어 있습니다.

@@ -5,7 +5,7 @@ next: ../tech-stack/
 
 # Prologue
 
-세상에는 다양한 기술들이 있고 팀과 비즈니스에 따라서 비슷한 형태의 서비스라도 다른 기술 스택을 사용하게 됩니다. 이제부터 저희의 **기술 스택(Tech Stack)** 선정 기준과 배경을 설명하려고 합니다.
+세상에는 다양한 기술들이 있고 팀과 비즈니스에 따라서 비슷한 형태의 서비스라도 다른 기술 스택을 사용하게 됩니다. 이제부터 저희의 **[기술 스택(Tech Stack)](/wedev/tech-stack/)** 선정 기준과 배경을 설명하려고 합니다.
 
 ## 콘웨이의 법칙
 
@@ -42,7 +42,7 @@ B 회사는 하나의 프로그램팀내에서 타스크 단위로 커뮤니케�
 
 ### 주도적 개발
 
-초기에 시스템 자체가 없기 때문에 자기가 편한 방식으로 사용해 보고 싶었던 최신 기술을 사용해서 마음대로 개발 할 수 있습니다. 하지만 현실은 체계나 인프라가 없기 때문에 반강제 주도적 개발을 하게 됩니다. 최신 기술을 사용하더라도 그것이 맞게 구현 했는지 잘못 구현했는지에 대한 검증도 하기가 힘듭니다. 스타트업이라고 할지라도 결국은 규모가 커져감에 따라 체계가 필요하고 주도적 개발이란 **“혼자 마음대로 하는 것”이 아닌 “팀이 같이 할수 있는 주도”**가 되어야 합니다.
+초기에 시스템 자체가 없기 때문에 자기가 편한 방식으로 사용해 보고 싶었던 최신 기술을 사용해서 마음대로 개발 할 수 있습니다. 하지만 현실은 체계나 인프라가 없기 때문에 반강제 주도적 개발을 하게 됩니다. 최신 기술을 사용하더라도 그것이 맞게 구현 했는지 잘못 구현했는지에 대한 검증도 하기가 힘듭니다. 스타트업이라고 할지라도 결국은 규모가 커져감에 따라 체계가 필요하고 주도적 개발이란 **혼자 마음대로 하는 것이 아닌 팀이 같이 할수 있는 주도**가 되어야 합니다.
 
 ### 빠른 성장과 인사이트
 
@@ -73,26 +73,21 @@ B 회사는 하나의 프로그램팀내에서 타스크 단위로 커뮤니케�
 
 
 :::tip
-어떤 기술이 좋고, 나쁘다 생각하지 않습니다. 상황에 따라 같은 기술이 좋을 수도 나쁠 수도 있고 바뀔 수도 있습니다. 특히 회사 규모나 조직 구성이 달라지면서 많은 변화가 일어나기 마련입니다. 객관적이나 중립적이지 않고 필자의 지식과 경험을 바탕으로 글을 쓰는 시점에서 저희 상황에 맞는 기술을 선정했음을 참고 바랍니다.
-
-참고로 간단히 필자의 기술 스택을 정리해 드립니다.
-16년 경력 풀스택 개발자, 스타트업에서 대기업까지 재직 경험
-CCU 100만, 가입자 2억명 디비 운영 경험
-언어: C++, C#, JAVA, JavaScript, Python, GO, Swift, HTML, CSS/SASS/Stylus,
+세상에 좋고 나쁜 기술은 없습니다. 상황에 따라 같은 기술이 좋을 수도 나쁠 수도 있고 바뀔 수도 있습니다. 특히 회사 규모나 조직 구성이 달라지면서 많은 변화가 일어나기 마련입니다. 객관적이나 중립적이지 않고 필자의 지식과 경험을 바탕으로 글을 쓰는 시점에서 저희 상황에 맞는 기술을 선정했음을 참고 바랍니다.
 :::
 
-보유기술
-* 주요 프로젝트 : 테라 / 오디션1 / 오디션2 / 모바일 앱 / 웹(Full Stack)
-- 가입자 2억이상, 동접 100만명 이상의 대용량 서버 및 데이터 베이스 운용 경험(중국)
-- 서버-클라이언트 서비스/솔루션 설계 및 제작
-* 언어 : C/C++, C#, JAVA, JavaScript, HTML5, CSS3(less, sass, stylus), Python
-* DBMS : MS-SQL, MySQL, NoSQL
-* 라이브러리 및 프레임워크외
-- AWS, Azure, Firebase 모두 상용 프로젝트 완료
-- Bootstrap, jQuery, Vue.js, vuetifyjs, quasar-framework
-- Windows, Linux, iOS, Android : 각 모든 플렛폼(OS)별 상용화 프로젝트 경험
-- Unity, Cocos2d-X, Cordova, Electron
-- Serverless, IOCP, Multi Threading, Seamless
-- Compile Time Design Pattern(Modern C++ Design) / Runtime Design Pattern(GoF)
-- git, CI/CI, Agile
+:::tip 필자 기술 스택
+참고로 간단히 필자의 기술 스택을 정리해보았습니다. 대부분 상용화하였거나 심도 있는 기술만 추렸습니다.
+
+* C++, C#, JAVA, JavaScript, Python, GO, Swift, HTML, CSS(LESS, SASS, Stylus)
+* MSSQL, MySQL, MariaDB, PostgreSQL, Firestore, DynamoDB, RedShift, Redis, BigQuery, Athena
+* AWS, GCP, Firebase, Azure
+* Nodejs, RESTful, GraphQL, Serverless, Micro Service, Low-level IOCP & TCP/UDP Socket
+* Docker, Kubernetes, Jenkins, git, CI/CD
+* Bootstrap, jQuery, Vue, vuetifyjs, quasar-framework
+* Unity, Cocos2d-X, Cordova, Electron, Direct-X
+* 웹/모바일, 게임, 서비스 다수 제작
+* 글로벌 서비스 및 대규모 CCU 100만, 가입자 2억명 디비 운영
+:::
+
 
