@@ -1,0 +1,3 @@
+# API
+
+- Rest / GraphQL > GraphQL

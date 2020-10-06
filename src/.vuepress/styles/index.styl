@@ -11,12 +11,15 @@
 ul.sidebar-links
   > li:not(:first-child)
     margin-top: 0 !important
-  > li > a.sidebar-link, > li > section.sidebar-group > a.sidebar-heading
+  > li > a.sidebar-link, > li > section.sidebar-group > .sidebar-heading
     font-size: 1em !important
     line-height: 1.2 !important
     font-weight: normal !important
     &.active
       font-weight: bold !important
+  > li > section.sidebar-group > p.sidebar-heading
+    font-size: 0.8em !important
+    color: #A9A9A9 !important
 header.hero
   h1#main-title
     font-size: 2rem
