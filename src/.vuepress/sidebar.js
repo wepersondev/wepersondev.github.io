@@ -38,7 +38,13 @@ module.exports = {
         '/wedev/devops/docker/'
       ]
     },
-    '/wedev/misc/',
+    {
+      title: 'MISC',
+      collapsable: false,
+      children: [
+        '/wedev/misc/docs/',
+      ]
+    },
     '/wedev/tech-stack-recap/'
   ],
   '/guides/': [

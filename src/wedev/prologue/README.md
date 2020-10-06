@@ -54,8 +54,9 @@ B 회사는 하나의 프로그램팀내에서 타스크 단위로 커뮤니케�
 
 성공하는 스타트업이 되기 위해서는 **전문성 있고 실력있는 개발자 확보가 최우선**입니다. 주도 개발, 빠른 성장, 최신 트렌드 모두 이런 고급 개발자에 의해 이루어집니다. 아이러니하게도 이런 고급 개발자는 스타트업에서 구하기 쉽지 않습니다.
 
+:::tip
 **아쉽게도 기술력은 기술에서 나오는 것이 아니라 경험에서 나옵니다.**
-
+:::
 
 ## 스타트업의 기술 선정
 
@@ -83,10 +84,10 @@ B 회사는 하나의 프로그램팀내에서 타스크 단위로 커뮤니케�
 * DBMS: MSSQL, MySQL, MariaDB, PostgreSQL, Firestore, DynamoDB, RedShift, Redis, BigQuery, Athena
 * Cloud: AWS, GCP, Firebase, Azure
 * Frontend: Bootstrap, jQuery, Vue, vuetifyjs, quasar-framework
-* Backend: Nodejs, RESTful, GraphQL, Serverless, Micro Service, Low-level IOCP & TCP/UDP Socket
+* Backend: Nodejs, Serverless, Micro Service, Apache, Nginx, RESTful, GraphQL, Low-level IOCP & TCP/UDP Socket, Lock-free, Seamless
 * DevOps: Docker, Kubernetes, Jenkins, git, CI/CD
-* Multi-platform: Unity, Cocos2d-X, Cordova, Electron, Direct-X, Windows, Android, iOS
-* Web, Mobile App, Game
+* Multi-platform & Game: Cordova, Electron, Unity, Cocos2d-X, Direct-X, OpenGL
+* Web, Mobile, Windows, Linux, Android, iOS
 * Global Service, CCU 1M, 200M+ User Database
 :::
 
