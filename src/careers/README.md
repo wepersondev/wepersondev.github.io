@@ -1,6 +1,6 @@
 # Careers
 
-![wework](/careers/wework.png)
+![wework](/img/careers/wework.png)
 
 **펄슨과 함께할 풀스택 개발자를 모십니다.**
 
