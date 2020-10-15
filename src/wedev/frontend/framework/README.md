@@ -7,7 +7,7 @@
 
 ### React
 
-![react-logo](/img/wedev/react-logo.jpg)
+![react](/img/wedev/react.jpg)
 <span class="ref">공식 홈페이지: [react](https://reactjs.org/)</span>
 
 Facebook이 개발하였고 Virtual DOM을 사용함으로써 성능이 좋고 재사용성이 높은 컴포넌트 방식의 개발에 최적화 되어 있습니다.
@@ -32,7 +32,7 @@ Facebook이 개발하였고 Virtual DOM을 사용함으로써 성능이 좋고 �
 
 ### Angular
 
-![angular-logo](/img/wedev/angular-logo.jpg)
+![angular](/img/wedev/angular.jpg)
 <span class="ref">공식 홈페이지: [angular](https://angular.io/)</span>
 
 Google 개발하였고 TypeScript 기반으로 되어 있습니다. MVC, MVVM, DI, Observer등 다양한 디자인 패턴을 기본으로 지원하며 대규모 어플리케이션 제작에 용이합니다.
@@ -53,7 +53,7 @@ Google 개발하였고 TypeScript 기반으로 되어 있습니다. MVC, MVVM, D
 
 ### Vue
 
-![vue-logo](/img/wedev/vue-logo.jpg)
+![vue](/img/wedev/vue.jpg)
 <span class="ref">공식 홈페이지: [vue](https://vuejs.org/)</span>
 
 React와 마찬가지로 Virtual DOM을 사용하고 컴포넌트 방식의 프레임워크입니다. 타 프레임워크들에 비해서 제일 늣게 나와서 기존의 프레임워크들의 장단점을 교묘히 결합하였습니다.
@@ -73,7 +73,7 @@ React와 마찬가지로 Virtual DOM을 사용하고 컴포넌트 방식의 프�
 
 ### Flutter
 
-![flutter-logo](/img/wedev/flutter-logo.jpg)
+![flutter](/img/wedev/flutter.jpg)
 <span class="ref">공식 홈페이지: [flutter](https://flutter.dev/)</span>
 
 Flutter는 구글에서 최근에 밀고(?) 있는 프론트엔드 프레임워크입니다. 아무래도 Angular가 복잡하고 무겁다보니 자체적으로 가볍고 Fancy한 프레임워크가 필요했던 모양입니다. 글을 쓰는 시점이 아닌 기술을 선택하는 시점에서 인지도가 너무 낮았고 충분히 R&D가 되지 않은 상태여서 배재를 하였지만 현재 발전속도나 내용으로 봐서는 꽤 좋은 프레임워크중에 하나인것 같습니다.
