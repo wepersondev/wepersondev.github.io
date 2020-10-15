@@ -7,6 +7,7 @@ module.exports = {
     {
       title: 'FRONTEND',
       collapsable: false,
+      sidebarDepth: 2,
       children: [
         '/wedev/frontend/framework/',
         '/wedev/frontend/hybrid-web-app/',
@@ -20,6 +21,7 @@ module.exports = {
     {
       title: 'BACKEND',
       collapsable: false,
+      sidebarDepth: 2,
       children: [
         '/wedev/backend/framework/',
         '/wedev/backend/cloud-service/',
@@ -32,6 +34,7 @@ module.exports = {
     {
       title: 'DEVOPS',
       collapsable: false,
+      sidebarDepth: 2,
       children: [
         '/wedev/devops/scm/',
         '/wedev/devops/ci-cd/',
@@ -41,6 +44,7 @@ module.exports = {
     {
       title: 'MISC',
       collapsable: false,
+      sidebarDepth: 2,
       children: [
         '/wedev/misc/docs/',
       ]
@@ -52,6 +56,7 @@ module.exports = {
     {
       title: 'Conventions',
       path: '/guides/conventions/',
+      sidebarDepth: 2,
       children: [
         '/guides/conventions/general/',
         '/guides/conventions/docs/',
