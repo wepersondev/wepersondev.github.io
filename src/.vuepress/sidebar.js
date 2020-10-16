@@ -11,7 +11,7 @@ module.exports = {
       children: [
         '/wedev/frontend/framework/',
         '/wedev/frontend/hybrid-web-app/',
-        '/wedev/frontend/spa-mpa-csr-ssr-pwa/',
+        '/wedev/frontend/csr-ssr-spa-mpa-pwa/',
         '/wedev/frontend/css/',
         '/wedev/frontend/linting/',
         '/wedev/frontend/bundling/',
