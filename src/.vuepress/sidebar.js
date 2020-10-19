@@ -15,7 +15,7 @@ module.exports = {
         '/wedev/frontend/css/',
         '/wedev/frontend/linting/',
         '/wedev/frontend/bundling-transpiler/',
-        '/wedev/frontend/ui-framework/'
+        '/wedev/frontend/ui-ux-framework/'
       ]
     },
     {
