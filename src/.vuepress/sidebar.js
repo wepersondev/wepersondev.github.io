@@ -14,7 +14,7 @@ module.exports = {
         '/wedev/frontend/csr-ssr-spa-mpa-pwa/',
         '/wedev/frontend/css/',
         '/wedev/frontend/linting/',
-        '/wedev/frontend/bundling/',
+        '/wedev/frontend/bundling-transpiler/',
         '/wedev/frontend/ui-framework/'
       ]
     },
