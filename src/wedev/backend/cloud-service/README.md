@@ -27,12 +27,23 @@ IaaS, PaaS, SaaS 개념을 쉽게 설명하면
 
 언어나 프레임워크와 마찬가지로 각 클라우드는 각자 장단점이 있고 대부분 비슷한 공통된 서비스들과 각자 특화된 서비스들이 있습니다. 어떤 클라우드를 선택해야 하는 것보다는 멀티 클라우드가 가능하게끔 설계를 하는 것이 더 중요하다고 생각합니다. 특히 글로벌 서비스의 경우, 다양한 선택지를 가지고 유연하게 대처 할 수 있는 것이 중요합니다. 멀티 클라우드를 위해서는 가급적 클라우드에 종속적인 기술을 지양하거나 해당 기술을 사용하더라도 다른 클라우드에서 우회 할 수 방법으로 서비스를 설계해야 합니다.
 
-####
+serverless framework
+
+
+
+#### BaaS(Backend as a Service)
+
+https://blog.back4app.com/backend-as-a-service-baas/
+
+
+https://www.megazone.com/techblog_20200424_opensource-24-open-source-tools-for-the-serverless-developer-part-1/
 
 Firebase와 Amplify
 
+FaaS(Function as a Service)
 
-## 결정
+
+## 결정 > 정리
 
 AWS + Firebase 조합, alternative로 Amplify(feat. AppSync)
 
