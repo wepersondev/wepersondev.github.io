@@ -80,10 +80,10 @@ B 회사는 하나의 프로그램팀내에서 타스크 단위로 커뮤니케�
 :::tip 필자 기술 스택
 참고로 간단히 필자의 기술 스택을 정리해보았습니다. 대부분 상용화하였거나 심도 있는 기술만 추렸습니다.
 
-* Language: C++, C#, JAVA, JavaScript, Python, GO, Swift, HTML, CSS(LESS, SASS, Stylus)
-* DBMS: MSSQL, MySQL, MariaDB, PostgreSQL, Firestore, DynamoDB, RedShift, Redis, BigQuery, Athena
-* Cloud: AWS, GCP, Firebase, Azure
-* Frontend: Bootstrap, jQuery, Vue, vuetifyjs, quasar-framework
+* Language: C++, C#, JAVA, JavaScript, Python, Go, Swift, PHP, HTML, CSS(LESS, SASS, Stylus)
+* DBMS: MSSQL, MySQL, MariaDB, PostgreSQL, DynamoDB, RedShift, Athena, Redis, Firestore, BigQuery
+* Cloud: AWS, GCP, Azure, Firebase
+* Frontend: Bootstrap, jQuery, React, Angular, Vue, vuetifyjs, quasar-framework
 * Backend: Nodejs, Serverless, Micro Service, Apache, Nginx, RESTful, GraphQL, Low-level IOCP & TCP/UDP Socket, Lock-free, Seamless
 * DevOps: Docker, Kubernetes, Jenkins, git, CI/CD
 * Multi-platform & Game: Cordova, Electron, Unity, Cocos2d-X, Direct-X, OpenGL
