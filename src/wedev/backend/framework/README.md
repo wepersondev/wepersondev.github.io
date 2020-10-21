@@ -36,3 +36,5 @@ Node.js는 백엔드만 사용되는 것이 아니고 프론트엔드에서도 �
 ## 정리
 
 앞서 [Language](/wedev/language/)에서 얘기했지만 Full Stack에 적합한 Node.js를 사용합니다. 해당 포스팅에도 언급해지만 언어를 먼저 선택하기 보다는 Node.js의 발전 속도와 에코 시스템, 생태계등이 제일 활발하고 Cloud Service Vendor들로 부터도 지원이 제일 빠릅니다. 이 선후 관계를 통하여 JavaScript(TypeScript)를 선택하고 백엔드를 Node.js로 사용하게 되었습니다.
+
+<small>Node.js에서도 Express? Apollo? 등의 세부 사항은 이어서 포스팅이 됩니다.</small>
