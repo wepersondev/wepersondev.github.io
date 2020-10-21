@@ -42,8 +42,9 @@ Firebase와 Amplify
 
 FaaS(Function as a Service)
 
+프론트엔드의 생산성 최강자는 Quasar Framework 라고 하면 백엔드 생산성 최강자는 단연코 Firebase 입니다.
 
-## 결정 > 정리
+## 정리
 
 AWS + Firebase 조합, alternative로 Amplify(feat. AppSync)
 

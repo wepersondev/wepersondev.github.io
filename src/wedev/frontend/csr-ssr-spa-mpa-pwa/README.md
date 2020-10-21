@@ -116,7 +116,7 @@ PWA에 대해서 더 자세히 알고 싶다면 [모질라](https://developer.mo
 
 <youtube src="//www.youtube-nocookie.com/embed/z2JgN6Ae-Bo" />
 
-## 결정
+## 정리
 
 따로 결정을 하기 보다는 원리를 이해했다면 어느 정도 답이 정해진 내용입니다.
 
