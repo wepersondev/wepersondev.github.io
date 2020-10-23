@@ -26,7 +26,7 @@ module.exports = {
         '/wedev/backend/framework/',
         '/wedev/backend/cloud-service/',
         '/wedev/backend/serverless/',
-        '/wedev/backend/dbms/',
+        '/wedev/backend/database/',
         '/wedev/backend/api/',
         '/wedev/backend/realtime/'
       ]
