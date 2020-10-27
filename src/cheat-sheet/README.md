@@ -13,7 +13,3 @@ Cheat Sheet는 단순히 명령어의 집합이고 개념적인 설명은 [WeDev
 ## 참고
 
 * [문서화 컨벤션](/guides/conventions/docs/)
-
-::: warning
-작성중입니다.
-:::

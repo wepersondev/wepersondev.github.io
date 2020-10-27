@@ -17,12 +17,20 @@ command [REQUIRED] <OPTIONAL>
 git clone [URL] <FOLDER>
 ```
 
-### 코드블럭...
+## Cheat Sheet
 
-섹션 구조:
+Cheat Sheet를 작성할 때 간결하고 통일성 있게 하기 위하여 다음과 같이 작성한다.
 
-간결하고 통일성 있게 하기 위함
+* 명령어를 타이틀로 하고 가급적 한줄 주석으로 표현
+* 사용법은 상단에 Example은 하단에 명시
 
-명령어(또는 제목)
-코드블락(신택스 + 예제)
-Parameters
+``` sh
+npm install [PACKAGE_NAME]  # [PACKAGE_NAME]를 설치
+npm i [PACKAGE_NAME]        # 축약형: i == install
+npm -g i [PACKAGE_NAME]     # 전역으로 패키지를 설치
+npm -g i [PACKAGE_NAME]     # 전역으로 패키지를 설치
+
+# Example
+npm -g i gulp-cli       # 전역으로 gulp-cli를 설치
+npm i gulp browsersync  # 해당 폴더에 gulp browsersync 두가지 모듈을 설치
+```

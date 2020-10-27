@@ -54,8 +54,8 @@ module.exports = {
   '/guides/': [
     '',
     {
-      title: 'Conventions',
-      path: '/guides/conventions/',
+      title: 'CONVENTIONS',
+      collapsable: false,
       sidebarDepth: 2,
       children: [
         '/guides/conventions/general/',
