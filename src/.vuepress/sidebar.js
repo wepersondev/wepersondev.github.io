@@ -68,8 +68,10 @@ module.exports = {
   '/cheat-sheet/': [
     '',
     'git/',
+    'gulp/',
     'npm/',
     'ssh/',
+    'vue/',
     'yarn/'
   ],
   '/careers/': [
