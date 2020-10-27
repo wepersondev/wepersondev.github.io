@@ -146,6 +146,7 @@ Firebase는 GCP(Google Cloud Platform)을 기반으로 추상화하여 생산성
 
 프론트엔드의 생산성 최강자는 [Quasar Framework](https://quasar.dev/) 라고 하면 백엔드 생산성 최강자는 단연코 [Firebase](https://firebase.google.com/) 입니다. (가끔 AWS vs Firebase로 비교하는 분들이 있는데 급이 맞지 않는 비교입니다. AWS vs GCP, Firebase vs Amplify 로 비교를 해야 목적과 체급이 맞습니다.)
 
+
 솔직히 개인적으로는 Firebase가 조금더 발전하면 스타트업들이 다른 서비스들을 사용 할 필요가 있을가 싶을 정도입니다. 물론 Firebase에도 다양한 제약들이 존재하고 아주 단순한 페인 포인트(Pain Point) 때문에 좀 힘든 부분들이 있지만 Firebase의 발전 속도를 보았을때 궁극적으로는 해결이 될것으로 기대합니다. 문제는 국내에서는 인지도나 점유율이 높지 않고 페인 포인트(Pain Point)의 우회 방법을 찾지 못한 사람들의 불평불만 글 들이 많아서 신뢰도가 높지 않습니다.(<small>이전부터 얘기했지만 우리나라는 기술편향 성격이 심합니다. 우리나라는 무조건 React + AWS 써야하여 그거말고 다른거 쓰는 애들은 이상한 놈 취급 받습니다. GCP, Azure, Firebase 다 좋은 솔루션이고 무엇을 쓰는가보다 잘 쓰는 것이 중요합니다.</small>)
 
 ## 정리
