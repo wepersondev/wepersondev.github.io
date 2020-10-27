@@ -18,7 +18,7 @@ UI/UX Framework란 화면상에 보이는 디자인과 UX에 일관되게 유지
 [BootstrapVue](https://bootstrap-vue.org/)는 Vue를 기반으로 Bootstrap을 랩핑(Wrapping)한 프레임워크입니다. 기존의 [Bootstrap](https://getbootstrap.com/)과 차이가 거의 없으며 간단하게 사용이 가능합니다. 하지만 Bootstrap의 인기가 요즘 식고 있고 디자인의 트렌드가 좀 옴겨가는 분위기에 현재 Github에서도 적극적인 개발이 이루어지지 않고 있습니다. 앞으로도 얼마나 사용 될지는 의문입니다.
 
 :::warning
-[Bootstrap](https://getbootstrap.com/)을 그대로 사용할 경우 종속성(Dependency)이 [jQuery](https://jquery.com/) 에 있기 때문에 [Vue](https://vuejs.org/)를 사용할 경우 반드시 [BootstrapVue](https://bootstrap-vue.org/)를 사용해야 합니다. jQuery, Vue, React, Angular 등은 근본적인 목적이 같은 프레임워크라 섞어서 사용할 경우 번들의 사이즈만 커지고 사이트가 느리게되며 비용이 증가하고 유지보수가 힘들어 집니다. 섞어서 사용한다고 구동이 안되는 것이 아니지만 가급적 피해야 하는 안티 패턴(Anti-Pattern)입니다. 한번은 IT를 모르는 대표가 외주를 줘서 제작한 서비스에 jQuery, Vue, React가 같은 역할을 하면서 떡칠이 되어 있는 소스를 보았는데 경악을 금치 못했습니다. 기술적 기반이 없이 무분별한 외주를 통해 산출된 가비지(Garbage) 프로젝트였습니다.
+[Bootstrap](https://getbootstrap.com/)을 그대로 사용할 경우 종속성(Dependency)이 [jQuery](https://jquery.com/) 에 있기 때문에 [Vue](https://vuejs.org/)를 사용할 경우 반드시 [BootstrapVue](https://bootstrap-vue.org/)를 사용해야 합니다. jQuery, Vue, React, Angular 등은 근본적인 목적이 같은 프레임워크라 섞어서 사용할 경우 번들의 사이즈만 커지고 사이트가 느리게되며 비용이 증가하고 유지보수가 힘들어 집니다. 섞어서 사용한다고 구동이 안되는 것이 아니지만 가급적 피해야 하는 안티 패턴(Anti-Pattern)입니다. 한번은 무분별하게 외주를 줘서 제작한 서비스에 jQuery, Vue, React가 같은 역할을 하면서 떡칠이 되어 있는 소스를 보았는데 경악을 금치 못했습니다. 기술적 기반이 없이 무분별한 외주는 가비지(Garbage) 프로젝트를 양산합니다.
 :::
 
 ### Vuetify.js
@@ -46,9 +46,9 @@ UI/UX Framework란 화면상에 보이는 디자인과 UX에 일관되게 유지
 
 ## 정리
 
-사실 드디어 얘기하고 싶었던 프레임워크가 나왔습니다. Quasar Framework입니다. 단순히 UI/UX가 아니라 해당 프레임워크를 사용함으로 해서 하나의 언어와 환경으로 원소스를 가지고 웹과 모바일과 PC/Mac 앱을 모두 빌드가 아주 쉽게 가능합니다. 앞서 얘기한 린팅(Linging)과 번들링과 트랜스컴파일 또한 모두 내장이 되어 있습니다. 대부분의 필요한 컴포넌트와 다양한 스타일 옵션이 내장되어 있습니다.
+사실 드디어 얘기하고 싶었던 프레임워크가 나왔습니다. [Quasar Framework](https://quasar.dev/)입니다. 단순히 UI/UX가 아니라 해당 프레임워크를 사용함으로 해서 하나의 언어와 환경으로 원소스를 가지고 웹과 모바일과 PC/Mac 앱을 모두 빌드가 아주 쉽게 가능합니다. 앞서 얘기한 린팅(Linging)과 번들링과 트랜스컴파일 또한 모두 내장이 되어 있습니다. 대부분의 필요한 컴포넌트와 다양한 스타일 옵션이 내장되어 있습니다.
 
-스타트업이 프로토타이핑시 제일 생산성이 좋은 프레임워크는 Quasar Framework가 아닐가 싶습니다.
+스타트업이 프로토타이핑시 제일 생산성이 좋은 프레임워크는 [Quasar Framework](https://quasar.dev/)가 아닐가 싶습니다.
 
 현재 저희 회사는 투 트랙으로 프로토타이핑과 시작하는 서비스에는 Quasar를 사용하며 장기적 플랜으로 자체 프레임워크를 제작 중에 있습니다.
 

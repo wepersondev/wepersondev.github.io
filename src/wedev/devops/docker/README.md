@@ -69,7 +69,7 @@ Docker 컨테이너 하나가 하나의 마이크로서비스로 구현이 가�
 
 ## 정리
 
-저희 팀에서는 Docker를 다양한 곳에 적극 활용 합니다. Docker를 제대로 다루기 위해서는 Orchestration에 대해서 알아야 합니다. 주로 Kubernetes, Fargate를 활용합니다.
+저희 팀에서는 Docker를 다양한 곳에 적극 활용 합니다. Docker를 제대로 다루기 위해서는 Orchestration에 대해서 알아야 합니다. 주로 [Kubernetes](https://kubernetes.io/)를 활용합니다.
 
 Docker를 알고 모르고 따라서 아키텍처의 영역이 달라집니다. 프론트앤드 개발자라고 해도 Docker를 활용하여 간단히 개발/테스트 환경을 구축할 수 있습니다. 꼭 풀스택 개발자가 아니라도 Docker와 Orchestration에 대해서 어느 정도 숙지하는 것을 추천드립니다.
 

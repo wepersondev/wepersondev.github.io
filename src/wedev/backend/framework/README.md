@@ -21,7 +21,7 @@ Node.js가 압도적입니다. 각 프레임워크는 각각의 언어를 대표
 
 :::tip
 <small>
-Node.js는 백엔드만 사용되는 것이 아니고 프론트엔드에서도 사용이 되고 Spring도 Spring Boot로 검색하면 더 수치가 높게 나와서 마치 수치를 외곡하는 느낌을 받을 수 있으나 트렌드를 설명함에 있어서 큰 차이가 없습니다. 사실 외곡이라기보다는 Node.js가 광범위하여 특정 프레임워크로 지정 할 수가 없고 Spring 또한 Spring Framework, Spring Boot, Spring MVC등으로 나뉘어서 해당 사이트에서 직접적인 비교가 힘듭니다. 더 자세한 내용을 원한다면 DYOR(Do Your Own Research)하길 바랍니다.
+Node.js는 백엔드만 사용되는 것이 아니고 프론트엔드에서도 사용이 되고 Spring도 Spring Boot로 검색하면 더 수치가 높게 나와서 마치 수치를 외곡하는 느낌을 받을 수 있으나 트렌드를 설명함에 있어서 큰 차이가 없습니다. 사실 외곡이라기보다는 Node.js가 광범위하여 특정 프레임워크로 지정 할 수가 없고 Spring 또한 Spring Framework, Spring Boot, Spring MVC등으로 나뉘어서 해당 사이트에서 직접적인 비교가 힘듭니다. 더 자세한 내용을 원한다면 DYOR(Do Your Own Research)하길 바랍니다.<br><br>
 </small>
 :::
 

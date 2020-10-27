@@ -2,7 +2,7 @@ module.exports = {
   '/wedev/': [
     '',
     'prologue/',
-    'tech-stack/',
+    'tech-stack-overview/',
     'language/',
     {
       title: 'FRONTEND',
