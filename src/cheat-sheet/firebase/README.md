@@ -11,3 +11,9 @@ npm i -g firebase-tools
 ``` sh
 firebase login
 ```
+
+## firebase 배포
+
+``` sh
+firebase deploy
+```
