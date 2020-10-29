@@ -5,3 +5,9 @@
 ``` sh
 npm i -g firebase-tools
 ```
+
+## firebase 로그인
+
+``` sh
+firebase login
+```
