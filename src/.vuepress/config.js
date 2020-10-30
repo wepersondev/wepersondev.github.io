@@ -32,11 +32,10 @@ module.exports = {
   serviceWorker: { updatePopup: true },
   markdown: { lineNumbers: true },
   plugins: [
-    ['@vuepress/back-to-top'],
+    ['@vuepress/plugin-back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
+    ['@vuepress/plugin-pwa', { serviceWorker: true, updatePopup: true }],
     // ['@vuepress/google-analytics', { 'ga': 'UA-144184493-1' }],
-    ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
-    // ['sitemap', { hostname: 'https://wepersondev.github.io' }],
-    ['seo']
+    // ['sitemap', { hostname: 'https://wepersondev.github.io' }]
   ]
 }
