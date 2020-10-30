@@ -24,8 +24,8 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-    ['meta', { name: 'naver-site-verification', content: '9f6fd9374b76e620a5d27ecde3ad0ce5ff285294' }],
-    ['meta', { name: 'google-site-verification', content: '_foyyoJ5pPvEdoIZjTVELtmkAh8b0pZ83LXTC4zfHXw' }]
+    // ['meta', { name: 'naver-site-verification', content: '9f6fd9374b76e620a5d27ecde3ad0ce5ff285294' }],
+    // ['meta', { name: 'google-site-verification', content: '_foyyoJ5pPvEdoIZjTVELtmkAh8b0pZ83LXTC4zfHXw' }]
   ],
   dest: 'docs',
   extraWatchFiles: ['.vuepress/sidebar.js'],
@@ -35,7 +35,7 @@ module.exports = {
     ['@vuepress/plugin-back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
     ['@vuepress/plugin-pwa', { serviceWorker: true, updatePopup: true }],
-    // ['@vuepress/google-analytics', { 'ga': 'UA-144184493-1' }],
+    ['@vuepress/plugin-google-analytics', { 'ga': 'G-7YF2E1CH2R' }],
     // ['sitemap', { hostname: 'https://wepersondev.github.io' }]
   ]
 }
