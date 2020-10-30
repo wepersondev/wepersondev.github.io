@@ -1,6 +1,6 @@
 # Hybrid Web/App
 
-요즘 나오는 대부분의 서비스가 그러하듯 저희도 웹과 앱을 모두 지원하는 서비스입니다. Web은 JS, Android는 Java, iOS는 Swift로 만드는 것이 일반적이지만 최근에는 Hybrid 개발 방식이 트렌드입니다. Hybrid Web/App 개발 방식이란 한번에 개발로 모든 웹과 모바일앱, 심지어 피씨와 맥까지 한번에 개발을 할 수 있는 방법입니다. 다음은 Hybrid 개발이 가능한 프레임워크들입니다.
+요즘 나오는 대부분의 서비스가 그러하듯 저희도 웹과 앱을 모두 지원하는 서비스입니다. Web은 JS, Android는 Java, iOS는 Swift로 만드는 것이 일반적이지만 최근에는 Hybrid 개발 방식이 트렌드입니다. Hybrid Web/App 개발 방식이란 한번의 개발로 모든 웹과 모바일앱, 심지어 피씨와 맥까지 한번에 개발을 할 수 있는 방법입니다. 다음은 Hybrid 개발이 가능한 프레임워크들입니다.
 
 ## 선택지
 
@@ -9,7 +9,7 @@
 ![Cordova](/img/wedev/cordova.jpg)
 <span class="ref">공식 홈페이지: [Cordova](https://cordova.apache.org/)</span>
 
-정식 명칭은 아파치 코도바(Apache Cordova)로 예전에 PhoneGap이라는 이름에서 변경하였고 현재 어도비가 인수하여 운영중입니다. 하이브리드 개발 방식중에 제일 오래된 편에 속해서 생태계나 레퍼런스가 많습니다. 순수한 HTML5, CSS3, JavaScript를 사용하여 모바일앱을 제작 할 수 있습니다. 다양한 플러그인들을 통해 카메라, 앨범, 전화번호부, GPS, 가속계 센서등 모바일 하드웨어 기능을 사용 할 수 있습니다.
+정식 명칭은 아파치 코도바(Apache Cordova)로 예전에 PhoneGap이라는 이름에서 변경하였고 현재 어도비가 인수하여 운영중입니다. 하이브리드 개발 방식중에 제일 오래된 편에 속해서 생태계나 레퍼런스가 많습니다. 순수한 HTML5, CSS3, JavaScript를 사용하여 모바일앱을 제작 할 수 있습니다. 다양한 플러그인들을 통해 카메라, 앨범, 전화번호부, GPS, 가속계 센서 등 모바일 하드웨어 기능을 사용 할 수 있습니다.
 
 ### Electron
 
@@ -30,7 +30,7 @@ React를 사용한다면 아주 적은 러닝커브만 가지고 앱을 만들�
 ![Ionic](/img/wedev/ionic.png)
 <span class="ref">공식 홈페이지: [Ionic Framework](https://ionicframework.com/)</span>
 
-Ionic Framework는 Angular를 기반으로한 하이브리드 개발 프레임워크입니다. 프레임워크뿐 아니라 개발/테스트/배포등의 에코 시스템이 같이 구축이 되어 있습니다. 현재는 React와 Vue까지 확장을 하였으나 기술 선택 시점으로 호환성이 완벽하지 않은 상황입니다.
+Ionic Framework는 Angular를 기반으로 한 하이브리드 개발 프레임워크입니다. 프레임워크뿐 아니라 개발/테스트/배포 등의 에코 시스템이 같이 구축이 되어 있습니다. 현재는 React와 Vue까지 확장을 하였으나 기술 선택 시점으로 호환성이 완벽하지 않은 상황입니다.
 
 ### 기타
 

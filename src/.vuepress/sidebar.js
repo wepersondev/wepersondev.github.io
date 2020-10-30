@@ -67,6 +67,7 @@ module.exports = {
   ],
   '/cheat-sheet/': [
     '',
+    'firebase/',
     'git/',
     'gulp/',
     'npm/',
