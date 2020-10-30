@@ -35,7 +35,7 @@ module.exports = {
     ['@vuepress/plugin-back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
     ['@vuepress/plugin-pwa', { serviceWorker: true, updatePopup: true }],
-    ['@vuepress/plugin-google-analytics', { 'ga': 'UA-251069771' }],
+    ['@vuepress/plugin-google-analytics', { 'ga': 'UA-181731421-1' }],
     // ['sitemap', { hostname: 'https://wepersondev.github.io' }]
   ]
 }
